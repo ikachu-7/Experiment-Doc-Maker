@@ -39,7 +39,7 @@ pip install google-generativeai python-docx beautifulsoup4
 After you have configured the API key and installed the necessary packages, run the script using Python:
 
 ```bash
-python experiment_doc_maker.py
+python generate_pdf.py
 ```
 
 ### Step 5: Provide Inputs
